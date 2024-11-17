@@ -2,6 +2,8 @@
 
 A modern and visually appealing **React.js** project that showcases fundamental concepts of React, such as components, JSX, props, and state management, through an interactive Tic-Tac-Toe application.
 
+Live Preview: https://tic-tac-toe-3r0y.onrender.com/
+
 ---
 
 ## **Features**
